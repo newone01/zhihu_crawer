@@ -1,0 +1,9 @@
+..\log4mongo\__init__.py
+..\log4mongo\__pycache__\__init__.cpython-38.pyc
+..\log4mongo\__pycache__\handlers.cpython-38.pyc
+..\log4mongo\handlers.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt
